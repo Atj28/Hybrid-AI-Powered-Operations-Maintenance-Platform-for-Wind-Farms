@@ -35,3 +35,5 @@ Thumbs.db
 # data/*.csv
 # data/*.parquet
 
+knowledge_base/*.pdf
+rag_db/
