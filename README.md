@@ -498,12 +498,6 @@ streamlit run app.py --server.port 8502
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🙏 Acknowledgments
 
 - **OpenAI** - LLM and embedding models
@@ -518,7 +512,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or issues:
 - Open a GitHub Issue
-- Email: support@example.com
+- Email: anuptj28@gmail.com
 
 ---
 
