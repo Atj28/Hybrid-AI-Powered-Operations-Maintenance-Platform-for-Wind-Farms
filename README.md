@@ -1,4 +1,4 @@
-# 🌬️ Wind Farm AI Operator
+# 🌬️ Wind Farm Agentic AI Operator
 
 **Hybrid AI-Powered Operations & Maintenance Platform for Wind Farms**
 
